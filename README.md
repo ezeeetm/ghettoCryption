@@ -14,4 +14,4 @@ It is meant to be hosted as an AWS Lambda function behind an AWS API Gateway.  C
 
 ![fdsafdsa][logo]
 
-[logo]: https://raw.githubusercontent.com/ezeeetm/ghettoCryption/master/pasted_image_at_2016_04_29_10_43_am.png "fdsafdsa"
+[logo]: https://raw.githubusercontent.com/ezeeetm/ghettoCryption/master/image.png "fdsafdsa"
