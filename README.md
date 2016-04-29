@@ -8,6 +8,10 @@ This was made as a joke/proof of concept after we rec'd the email below:
 
 > Let me know how to Share the Vulnerability report ?
 
-It was clear they had scraped our company's contact info in the html on our corporate website.  Our CTO quickly hexed out that address to prevent it in the future, and we joked that there should be a web service that does on-the-fly obfuscation in a similar fashion.  So, I made it.
+It was clear they had scraped our company's contact email addresses out of the html on our corporate website.  Our CTO quickly hexed out that address to prevent it in the future, and we joked that there should be a web service that does on-the-fly obfuscation in a similar fashion.  So, here it is.
 
 It is meant to be hosted as an AWS Lambda function behind an AWS API Gateway.  Call it in a browser with /domain as the last url resource, and it will return the entire www.domain.com web page content obfuscated in hex and rendered in the browser in .js  
+
+![fdsafdsa][logo]
+
+[logo]: https://raw.githubusercontent.com/ezeeetm/ghettoCryption/master/pasted_image_at_2016_04_29_10_43_am.png "fdsafdsa"
